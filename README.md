@@ -1,2 +1,4 @@
 # Instaladores-de-Mantenimiento-
-A continuacion presento los Instaladores de PSEINT, VISUAL STUDIO CODE, entre otros.
+A continuacion presento los Instaladores de PSEINT.
+
+Este repositorio ha sido desarrollado con el fin de ayudar a internautas con necesidad de un programa de PSEINT.
